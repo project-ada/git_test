@@ -1,5 +1,5 @@
 1
 2
-3
+3 edit line3 in branch3
 4
 5
