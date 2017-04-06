@@ -1,2 +1,4 @@
 # git_test
 Used for testing git gathering and processing
+
+a commit directly in master
